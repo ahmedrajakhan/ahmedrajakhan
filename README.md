@@ -36,17 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedrajakhan&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrajakhan&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedrajakhan&theme=dark)
-
----
-
-### 🌐 Let's Connect
 ---
 
 ## 🎯 **Profile Highlights**
@@ -60,32 +50,8 @@
 
 ---
 
-## 🧑‍💻 **About Me**
 
-```python
-class AhmedRajaKhan:
-    def __init__(self):
-        self.role = "Data Analyst"
-        self.experience = "2.6+ years"
-        self.skills = ["Python", "SQL", "Power BI", "AWS", "Tableau"]
-        self.education = {
-            "MCA": "Data Science & Analytics (Expected 2027)",
-            "BA Sociology": "Sociological Research Methods"
-        }
-        self.achievements = {
-            "efficiency_boost": "25%",
-            "reporting_reduction": "30%",
-            "savings_generated": "$25K+"
-        }
-        self.availability = "Immediate (Worldwide)"
-        self.location = "Open to Global Opportunities"
-    
-    def get_bio(self):
-        return "Data Analyst blending technical expertise with human-centric research methods"
-    
-    def is_available(self):
-        return True  # Ready for interviews!
-    
+        se
 ahmed = AhmedRajaKhan()
 print(f"🌟 {ahmed.get_bio()} | 🌍 {ahmed.availability}")
 ```
@@ -155,27 +121,9 @@ pie title Weekly Coding Distribution
 
 ---
 
-## 🏆 **GitHub Trophies & Achievements**
 
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedrajakhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
-</div>
 
----
-
-## 📊 **GitHub Stats Dashboard**
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrajakhan&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=1A4D8C&icon_color=00C853&ring=00C853)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrajakhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1A4D8C)
-
-</div>
-
----
 
 ## 📈 **Contribution Activity Graph**
 
@@ -303,28 +251,8 @@ pie title Weekly Coding Distribution
 
 ---
 
-## 📧 **Quick Contact Card**
 
-```yaml
-name: Ahmed Raja Khan
-role: Data Analyst
-experience: 2.6+ years
-location: Open to Global
-availability: Immediate
-skills:
-  - Python
-  - SQL
-  - Power BI
-  - AWS
-  - Tableau
-contact:
-  email: ahmedrajakhan56@gmail.com
-  linkedin: /in/ahmed-raja-khan
-  github: /ahmedrajakhan
-looking_for: Data Analyst opportunities worldwide
-```
 
----
 
 <div align="center">
   
