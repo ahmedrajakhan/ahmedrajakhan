@@ -114,10 +114,10 @@ AWS         ██████████░░░░░░░░░░   45%
 
 <div align="center">
   
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmedrajakhan56-png&label=Profile%20Views&color=1A4D8C&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmedrajakhan&label=Profile%20Views&color=1A4D8C&style=for-the-badge)
 
-[![GitHub Followers](https://img.shields.io/github/followers/ahmedrajakhan56-png?label=Followers&style=for-the-badge&color=1A4D8C)](https://github.com/ahmedrajakhan56-png)
-[![GitHub Stars](https://img.shields.io/github/stars/ahmedrajakhan56-png?label=Total%20Stars&style=for-the-badge&color=FFB800)](https://github.com/ahmedrajakhan56-png)
+[![GitHub Followers](https://img.shields.io/github/followers/ahmedrajakhan?label=Followers&style=for-the-badge&color=1A4D8C)](https://github.com/ahmedrajakhan56-png)
+[![GitHub Stars](https://img.shields.io/github/stars/ahmedrajakhanlabel=Total%20Stars&style=for-the-badge&color=FFB800)](https://github.com/ahmedrajakhan56-png)
 
 </div>
 
