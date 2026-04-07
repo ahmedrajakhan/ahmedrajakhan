@@ -1,4 +1,57 @@
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/portfolio/main/assets/global-banner.gif?raw=true" width="30"/> AHMED RAJA KHAN <img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/portfolio/main/assets/global-banner.gif?raw=true" width="30"/>
 
+### *Data Analyst | Python, SQL, AWS & Power BI Specialist | Research-Driven Insights*
+
+[![Global](https://img.shields.io/badge/🌍_Open_to-Worldwide_Opportunities-1A4D8C?style=for-the-badge)](https://github.com/ahmedrajakhan)
+[![Remote](https://img.shields.io/badge/💻_Remote_Ready-Yes-00C853?style=for-the-badge)]()
+[![Relocation](https://img.shields.io/badge/✈️_Relocation-Immediate-FF6B6B?style=for-the-badge)]()
+
+</div>
+
+---
+
+## 🎯 **Profile Highlights**
+
+<div align="center">
+  
+| 📊 **Experience** | 🎓 **Education** | 🏆 **Projects** | 💼 **Current Role** |
+|:---:|:---:|:---:|:---:|
+| 2.6+ Years | MCA + Sociology | 15+ Completed | Data Analyst @ NEWGEN |
+
+</div>
+
+---
+
+## 🧑‍💻 **About Me**
+
+```python
+class AhmedRajaKhan:
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.experience = "2.6+ years"
+        self.skills = ["Python", "SQL", "Power BI", "AWS", "Tableau"]
+        self.education = {
+            "MCA": "Data Science & Analytics (Expected 2027)",
+            "BA Sociology": "Sociological Research Methods"
+        }
+        self.achievements = {
+            "efficiency_boost": "25%",
+            "reporting_reduction": "30%",
+            "savings_generated": "$25K+"
+        }
+        self.availability = "Immediate (Worldwide)"
+        self.location = "Open to Global Opportunities"
+    
+    def get_bio(self):
+        return "Data Analyst blending technical expertise with human-centric research methods"
+    
+    def is_available(self):
+        return True  # Ready for interviews!
+    
+ahmed = AhmedRajaKhan()
+print(f"🌟 {ahmed.get_bio()} | 🌍 {ahmed.availability}")
 
 ---
 
