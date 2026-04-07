@@ -24,40 +24,7 @@
 
 ---
 
-## 🧑‍💻 **About Me**
 
-```python
-class AhmedRajaKhan:
-    def __init__(self):
-        self.role = "Data Analyst"
-        self.experience = "2.6+ years"
-        self.skills = ["Python", "SQL", "Power BI", "AWS", "Tableau"]
-        self.education = {
-            "MCA": "Data Science & Analytics (Expected 2027)",
-            "BA Sociology": "Sociological Research Methods"
-        }
-        self.achievements = {
-            "efficiency_boost": "25%",
-            "reporting_reduction": "30%",
-            "savings_generated": "$25K+"
-        }
-        self.availability = "Immediate (Worldwide)"
-        self.location = "Open to Global Opportunities"
-    
-    def get_bio(self):
-        return "Data Analyst blending technical expertise with human-centric research methods"
-    
-    def is_available(self):
-        return True  # Ready for interviews!
-    
-ahmed = AhmedRajaKhan()
-print(f"🌟 {ahmed.get_bio()} | 🌍 {ahmed.availability}")
-
----
-
-## 📊 **Real-Time GitHub Analytics**
-
-<div align="center">
   
 ### 🔥 **Current Development Streak**
 
