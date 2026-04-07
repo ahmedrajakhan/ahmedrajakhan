@@ -1,45 +1,24 @@
-## 👋 Hi, I'm Ahmed Raja Khan
-
-**Data Analyst | Python, SQL, AWS & Power BI Specialist | Research-Driven Insights | Dashboard & Reporting Automation**
-
-- 🔭 I’m currently working at **NEWGEN TECHNOMATE** as a Data Analyst
-- 🌍 Based in Noida, but **open to global opportunities** (Remote/Relocation)
-- 🧠 Unique blend of **Technical Analytics + Sociological Research Methods**
-- 📊 I build end-to-end data solutions: from ETL pipelines to interactive dashboards
-- 🎯 My work has improved operational efficiency by **25%** and reduced reporting time by **30%**
-- 💬 Ask me about: Python, SQL, Power BI, AWS, and turning data into business decisions
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ahmed-raja-khan) | [Email](mailto:ahmedrajakhan56@gmail.com)
-- ⚡ Fun fact: I'm a global citizen ready to bring analytics excellence to your team anywhere in the world!
+Here's your **advanced, feature-rich GitHub profile README** with modern widgets, dynamic elements, and recruiter-attracting features:
 
 ---
 
-### 🚀 My Tech Stack
+```markdown
+<div align="center">
+  
+# <img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/portfolio/main/assets/global-banner.gif?raw=true" width="30"/> AHMED RAJA KHAN <img src="https://raw.githubusercontent.com/ahmedrajakhan56-png/portfolio/main/assets/global-banner.gif?raw=true" width="30"/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+### *Data Analyst | Python, SQL, AWS & Power BI Specialist | Research-Driven Insights*
 
----
+[![Global](https://img.shields.io/badge/🌍_Open_to-Worldwide_Opportunities-1A4D8C?style=for-the-badge)](https://github.com/ahmedrajakhan)
+[![Remote](https://img.shields.io/badge/💻_Remote_Ready-Yes-00C853?style=for-the-badge)]()
+[![Relocation](https://img.shields.io/badge/✈️_Relocation-Immediate-FF6B6B?style=for-the-badge)]()
 
-### 📌 Pinned Projects
-
-- [Amazon-Analysis](https://github.com/ahmedrajakhan/Amazon-Analysis) – End-to-end analytics of 1,465 products (Python, AWS, Power BI, SQL)
-- [Bank Loan Analysis](https://github.com/ahmedrajakhan/Bank_Loan_Annlysis) – Risk analysis on 38,576 loan applications
-- [HR Attrition Analytics](https://github.com/ahmedrajakhan/H-r-Attrition-Analytics) – Predictive analysis saving $1.4M+ in potential losses
-- [Marketing ROI Analysis](https://github.com/ahmedrajakhan/Marketing-ROI-Analysis) – Optimized $5.2M ad spend, saved $25K+
-- [Customer Churn Analysis](https://github.com/ahmedrajakhan/OTT-Customer-Churn-Analysis) – 87% accurate churn prediction model
-
----
-
+</div>
 
 ---
 
 ## 🎯 **Profile Highlights**
+
 <div align="center">
   
 | 📊 **Experience** | 🎓 **Education** | 🏆 **Projects** | 💼 **Current Role** |
@@ -50,8 +29,32 @@
 
 ---
 
+## 🧑‍💻 **About Me**
 
-        se
+```python
+class AhmedRajaKhan:
+    def __init__(self):
+        self.role = "Data Analyst"
+        self.experience = "2.6+ years"
+        self.skills = ["Python", "SQL", "Power BI", "AWS", "Tableau"]
+        self.education = {
+            "MCA": "Data Science & Analytics (Expected 2027)",
+            "BA Sociology": "Sociological Research Methods"
+        }
+        self.achievements = {
+            "efficiency_boost": "25%",
+            "reporting_reduction": "30%",
+            "savings_generated": "$25K+"
+        }
+        self.availability = "Immediate (Worldwide)"
+        self.location = "Open to Global Opportunities"
+    
+    def get_bio(self):
+        return "Data Analyst blending technical expertise with human-centric research methods"
+    
+    def is_available(self):
+        return True  # Ready for interviews!
+    
 ahmed = AhmedRajaKhan()
 print(f"🌟 {ahmed.get_bio()} | 🌍 {ahmed.availability}")
 ```
@@ -121,9 +124,27 @@ pie title Weekly Coding Distribution
 
 ---
 
+## 🏆 **GitHub Trophies & Achievements**
 
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmedrajakhan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
+</div>
 
+---
+
+## 📊 **GitHub Stats Dashboard**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrajakhan&theme=dark&hide_border=false&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=1A4D8C&icon_color=00C853&ring=00C853)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrajakhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=1A4D8C)
+
+</div>
+
+---
 
 ## 📈 **Contribution Activity Graph**
 
@@ -251,8 +272,28 @@ pie title Weekly Coding Distribution
 
 ---
 
+## 📧 **Quick Contact Card**
 
+```yaml
+name: Ahmed Raja Khan
+role: Data Analyst
+experience: 2.6+ years
+location: Open to Global
+availability: Immediate
+skills:
+  - Python
+  - SQL
+  - Power BI
+  - AWS
+  - Tableau
+contact:
+  email: ahmedrajakhan56@gmail.com
+  linkedin: /in/ahmed-raja-khan
+  github: /ahmedrajakhan
+looking_for: Data Analyst opportunities worldwide
+```
 
+---
 
 <div align="center">
   
@@ -268,14 +309,47 @@ pie title Weekly Coding Distribution
 
 </div>
 
+---
 
+## 🔄 **Auto-updating Sections**
 
-This version will make your profile stand out to global recruiters! 🎯
+> 💡 **Note:** Some widgets (like Recent Activity, Quote of the Day) auto-update daily.  
+> For the best experience, ensure your GitHub profile is public and activity is tracked.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-raja-khan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedrajakhan56@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedrajakhan)
+<!-- 
+  Pro Tips:
+  1. Replace any broken image links with your own assets
+  2. Add GITHUB_TOKEN for accurate contribution stats
+  3. Star your own repos to show engagement
+  4. Keep contributing daily to maintain streak
+-->
+```
 
 ---
 
-*“Turning data into decisions, one analysis at a time.”*
+## ✨ **Advanced Features Added**
+
+| Feature | Description | Benefit |
+|:-------:|:-----------:|:-------:|
+| 🐍 **Python Class Bio** | Interactive code-style introduction | Shows coding personality |
+| 📊 **Mermaid Pie Chart** | Weekly coding distribution | Visual skill breakdown |
+| 🏆 **GitHub Trophies** | 2x4 achievement grid | Professional credibility |
+| 📈 **Activity Graph** | Contribution timeline | Shows consistency |
+| 🎯 **Weekly Goals Tracker** | Progress bars | Shows productivity |
+| 📅 **Recent Activity Feed** | Latest GitHub actions | Dynamic content |
+| 💬 **Quote of the Day** | Auto-updating quotes | Freshness |
+| 🎮 **Dev Setup Section** | Hardware/software stack | Technical transparency |
+| 📧 **YAML Contact Card** | Structured information | Easy parsing by ATS |
+| 🔄 **Auto-updating Notes** | Widgets that refresh daily | Low maintenance |
+
+---
+
+## 🚀 **Copy & Paste Instructions**
+
+1. **Copy** the entire code block above
+2. Go to `https://github.com/ahmedrajakhan/ahmedrajakhan`
+3. Edit `README.md`
+4. **Paste** the content
+5. Commit with message: "✨ Enhanced GitHub profile with advanced features"
+
+This version will make your profile stand out to global recruiters! 🎯
